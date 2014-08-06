@@ -1,4 +1,4 @@
-jo-eun-bi-project
+Demo files - 인덕대학교 웹 표준 과정
 =================
 
 조은비의 포트폴리오
@@ -27,6 +27,4 @@ jo-eun-bi-project
 
 ### 주언어 명시
 
-```
-<html lang="ko"></html>
-```
+
